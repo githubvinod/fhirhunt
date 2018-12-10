@@ -1,0 +1,32 @@
+<table>
+    <thead>
+        <tr>
+        <th style="white-space: nowrap;">Commit Message</th>
+         <th>Author</th>
+         <th>Commit ID</th>
+         <th>Date</th>
+         </tr>
+    </thead>
+    <tbody>
+  {{$jsonURL := "data/changelog/changelog.json" }} 
+    {{$json := getJSON $jsonURL }}
+
+      {{range $json}}
+            <tr>
+                     
+                     <td class = "tdstyle">{{ .message }}</td>
+                     <td class = "tdstyle">{{ .author }}</td>
+                     <td class = "tdstyle">{{ .commit }}</td>
+                     <td class = "tdstyle" style="white-space: nowrap;">{{ .date }}</td>
+                    
+
+                    
+                     
+                     
+            </tr>
+     {{ end }}
+    </tbody>
+</table>
+ 
+
+

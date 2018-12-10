@@ -1,0 +1,168 @@
+[{
+  "commit": "79d455d11b0059d48ceddb995fe895fd15da48b0",
+  "author": "Abdul Razak <razak@citrusinformatics.com>",
+  "date": "Fri Jul 6 16:13:42 2018 +0530",
+  "message": "Elaborate-initial-instructions"
+},
+{
+  "commit": "20bae611060c714e0cb9c9556c49ef75293a1f12",
+  "author": "firozmi <firozmohammedmi@gmail.com>",
+  "date": "Thu Jul 5 20:09:38 2018 +0530",
+  "message": "update-theme"
+},
+{
+  "commit": "4f70ccfa2e5bfa96ba73747b074c9a779a9ac1c9",
+  "author": "Abdul Razak <razak@citrusinformatics.com>",
+  "date": "Thu Jul 5 17:15:37 2018 +0530",
+  "message": "Added-git-clone-starter-command"
+},
+{
+  "commit": "6df43ac24bd25742d1de5d2f638f69ab01b78ff4",
+  "author": "Shahid N. Shah <shahid@shah.org>",
+  "date": "Mon Jun 11 19:29:01 2018 -0400",
+  "message": "Rename-DEPLOY-to-BUILD-to-be-more-precise"
+},
+{
+  "commit": "3121e75bf9b6fd3b88291de4ab1f7a035321aa2a",
+  "author": "Raphael V P <raphaelvp>",
+  "date": "Mon Jun 11 18:37:33 2018 +0530",
+  "message": "Update-build-target-to-generate-all"
+},
+{
+  "commit": "a2ecda9342b8d7cdc44bbca31b7960d26dcc54d4",
+  "author": "Shahid Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 22:27:46 2018 -0400",
+  "message": "Added-basic-information-for-make-targets"
+},
+{
+  "commit": "1757a0d65291221679da0f96a44b502efc3e2761",
+  "author": "Shahid Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 21:45:57 2018 -0400",
+  "message": "Added-prune-count-message"
+},
+{
+  "commit": "670548819617c7e9c58a7ec07bf95b341bbb58d4",
+  "author": "Shahid Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 21:41:12 2018 -0400",
+  "message": "Added-pruning-of-empty-directories"
+},
+{
+  "commit": "8ce1b7ef18fb8b6f9c7df3575db53270c063a114",
+  "author": "Shahid Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 21:01:51 2018 -0400",
+  "message": "Updated-status-message"
+},
+{
+  "commit": "e06e8098a5de7b71a63bed651de5444ca7880fcd",
+  "author": "Shahid N. Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 20:16:23 2018 -0400",
+  "message": "Optimize-test-target-add-message-to-diagrams-usage"
+},
+{
+  "commit": "60c608268e575f84547db03c442db91374a74fc9",
+  "author": "Shahid N. Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 20:14:58 2018 -0400",
+  "message": "Ignore-.vscode"
+},
+{
+  "commit": "5c277a6c48f36ba4394038ab57ae3955701da88a",
+  "author": "Shahid Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 19:25:15 2018 -0400",
+  "message": "Fixed-PlantUML-wildcard-so-that-it-searches-subdirs-too"
+},
+{
+  "commit": "29416ebb8748ea1f82d219e79c1e149191ed3d87",
+  "author": "Shahid N. Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 15:51:48 2018 -0400",
+  "message": "Added-GraphQL-auto-documentation-target"
+},
+{
+  "commit": "e3a81073926a2b5fa508e7cb146848a2ccb7c81a",
+  "author": "Shahid N. Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 14:29:05 2018 -0400",
+  "message": "Added-test-for-Graphviz-dot-before-running-generator"
+},
+{
+  "commit": "a1a8f31cc75b01dd4b6c155d91f18b7e62d5412a",
+  "author": "Shahid N. Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 09:14:18 2018 -0400",
+  "message": "Added-convenience-targets"
+},
+{
+  "commit": "04fba1b1603152ff7f1ab334ce451f99ba2d14da",
+  "author": "Shahid N. Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 09:00:21 2018 -0400",
+  "message": "Added-additional-directives-in-help-target"
+},
+{
+  "commit": "1d417fa7368d754cea1559883c25b2cc9f258ac4",
+  "author": "Shahid N. Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 08:51:45 2018 -0400",
+  "message": "Added-optimized-targets-for-cases-when-PlantUML-diagrams-don-t-exist"
+},
+{
+  "commit": "340dd588ccebd3aeb2c91ff18d66a17013c1df22",
+  "author": "Shahid N. Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 08:00:22 2018 -0400",
+  "message": "Added-diagrams-usage-target"
+},
+{
+  "commit": "7cac9869b7655efc3e5ea12a678d963afd16bb82",
+  "author": "Shahid N. Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 07:59:25 2018 -0400",
+  "message": "Added-diagrams-usage-target"
+},
+{
+  "commit": "eef03b2b4e2cc5ef1c2515a5d009cbfe20c89c65",
+  "author": "Shahid N. Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 07:10:52 2018 -0400",
+  "message": "Add-auto-commit-when-updating-Makefile"
+},
+{
+  "commit": "9569ec6eb6caf86d0a917f4e68f72d61f4118fc8",
+  "author": "Shahid N. Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 07:10:18 2018 -0400",
+  "message": "Add-diagram-generator-to-test-target"
+},
+{
+  "commit": "e8b7b547dd0148ac816ed9c9c7d467f54c03686d",
+  "author": "Shahid Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 06:22:31 2018 -0400",
+  "message": "Removed-project-archetype-so-we-dafault-to-theme"
+},
+{
+  "commit": "6c18c2e96fbc58c80e422bbbdcf6e68acb4303a2",
+  "author": "Shahid N. Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 06:16:12 2018 -0400",
+  "message": "Clarify-instructions"
+},
+{
+  "commit": "f1c7ba75209ca390fde6e174ccf7ebb66d29da66",
+  "author": "Shahid N. Shah <shahid@shah.org>",
+  "date": "Sun Jun 10 06:05:54 2018 -0400",
+  "message": "Added-help-targets-and-optimized-Makefile"
+},
+{
+  "commit": "9354f0b280b56e05b44df0f381bd9ed867d1849d",
+  "author": "Shahid N. Shah <shahid@shah.org>",
+  "date": "Sat Jun 9 20:21:33 2018 -0400",
+  "message": "Added-URL-as-example"
+},
+{
+  "commit": "5ae5d6d239f7063c0ca9b16d53977500221b9347",
+  "author": "Shahid N. Shah <shahid@shah.org>",
+  "date": "Sat Jun 9 19:51:53 2018 -0400",
+  "message": "Added-targets-to-update-Makefile-from-starter"
+},
+{
+  "commit": "40a613a90e0e716589ddd27822c7aa4a019ce777",
+  "author": "Shahid N. Shah <shahid@shah.org>",
+  "date": "Sat Jun 9 18:14:49 2018 -0400",
+  "message": "Update-line-endings"
+},
+{
+  "commit": "f9c38ec1eb6fc57b0575b0fef399aff95fc5b550",
+  "author": "Shahid Shah <shahid@shah.org>",
+  "date": "Sat Jun 9 17:58:48 2018 -0400",
+  "message": "Initial-commit"
+}]

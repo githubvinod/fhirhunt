@@ -1,0 +1,34 @@
+header:after {
+    display:none!important;
+}
+header {
+    /*background-color: #540701!important;*/
+    height: auto!important;
+    line-height: inherit!important;
+    background: #540701;
+    background-image: -webkit-gradient(linear,0% 0%,0% 100%,from(rgba(162,2,0,1)),to(rgba(162,2,0,0)));
+    background-image: -webkit-linear-gradient(left,rgba(162,2,0,0) 0%,rgba(162,2,0,1) 50%,rgba(162,2,0,0) 100%);
+    background-image: linear-gradient(left,rgba(162,2,0,0) 0%,rgba(162,2,0,1) 50%,rgba(162,2,0,0) 100%);
+    background-image: -webkit-radial-gradient(top center,rgba(162,2,0,1),rgba(162,2,0,0));
+}
+.kanban-board header .kanban-title-board {
+    margin-top: 0px!important;
+    margin-bottom: 15px!important;
+}
+article section.page img {
+    margin: inherit!important;
+}
+header .logo img {
+    height:45px!important;
+    margin-right: 0.5rem;
+}
+header .logo {
+    margin: 10px 0 6px 0px!important;
+}
+.top-strip {
+    background-color: #540701!important;
+    height: 50px!important;
+}
+.clearfix {
+  clear:both!important;
+}

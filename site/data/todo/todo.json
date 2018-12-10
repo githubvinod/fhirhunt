@@ -1,0 +1,191 @@
+[
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 2369,
+    "ref": "",
+    "text": "Allow start and end angle to be specified?"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 2370,
+    "ref": "",
+    "text": "Allow padding to be specified as percentage?"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 6664,
+    "ref": "",
+    "text": "return a"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 6673,
+    "ref": "",
+    "text": "return d"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 7131,
+    "ref": "",
+    "text": "ignore if not clipping polygons."
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 7432,
+    "ref": "",
+    "text": "reuse ringBuffer.rejoin()?"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 7551,
+    "ref": "",
+    "text": "Use d3-polygon’s polygonContains here for the ring check?"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 7552,
+    "ref": "",
+    "text": "Eliminate duplicate buffering in clipBuffer and polygon.push?"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 7662,
+    "ref": "",
+    "text": "rather than special-case polygons, simply handle them separately."
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 8462,
+    "ref": "",
+    "text": "Enforce positive area for exterior, negative area for interior?"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 18438,
+    "ref": "",
+    "text": "Is there a faster way to determine which intersection to use?"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 50039,
+    "ref": "",
+    "text": "Return 'e' when day of month > 1. Move this case inside"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 58409,
+    "ref": "",
+    "text": "Remove \"ordinalParse\" fallback in next major release."
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 59052,
+    "ref": "",
+    "text": "add sorting"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 59092,
+    "ref": "",
+    "text": "Another silent failure?"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 59880,
+    "ref": "",
+    "text": "Find a better way to register and load all the locales in Node"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 60160,
+    "ref": "",
+    "text": "We need to take the current isoWeekYear, but that depends on"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 60335,
+    "ref": "",
+    "text": "Replace the vanilla JS Date object with an indepentent day-of-week check."
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 60439,
+    "ref": "",
+    "text": "Move this to another part of the creation flow to prevent circular deps"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 60734,
+    "ref": "",
+    "text": "Use [].sort instead?"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 61165,
+    "ref": "",
+    "text": "remove 'name' arg after deprecation is removed"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 61720,
+    "ref": "",
+    "text": "Remove \"ordinalParse\" fallback in next major release."
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 62248,
+    "ref": "",
+    "text": "Use this.as('ms')?"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 62775,
+    "ref": "",
+    "text": "make this comparison case-insensitive on windows?"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/mermaid/mermaid.js",
+    "tag": "TODO",
+    "line": 63265,
+    "ref": "",
+    "text": "optimize"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/revealjs/js/reveal.js",
+    "tag": "TODO",
+    "line": 4811,
+    "ref": "",
+    "text": "There's a bug here where the event listeners are not"
+  },
+  {
+    "file": "/opt/netspective/themes/netspective/static/revealjs/plugin/markdown/markdown.js",
+    "tag": "TODO",
+    "line": 405,
+    "ref": "",
+    "text": "Do these belong in the API?"
+  }
+]

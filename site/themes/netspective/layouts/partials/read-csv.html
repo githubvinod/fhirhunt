@@ -1,0 +1,30 @@
+<table>
+    <thead>
+        <tr>
+        <th>File Name</th>
+        <th>Tag</th>
+        <th>Line</th>
+        <th>Ref</th>
+        <th>Text</th>
+        </tr>
+    </thead>
+    <tbody>
+  {{$jsonURL := "data/todo/todo.json" }} 
+    {{$json := getJSON $jsonURL }}
+
+      {{range $json}}
+            <tr>
+                     
+                    <td class = "tdstyle">{{ .file }}</td>
+                    <td class = "tdstyle">{{ .tag }}</td>
+                    <td class = "tdstyle">{{ .line }}</td>
+                    <td class = "tdstyle">{{ .ref }}</td>
+                    <td class = "tdstyle">{{ .text }}</td>
+                     
+            </tr>
+     {{ end }}
+    </tbody>
+</table>
+ 
+
+
